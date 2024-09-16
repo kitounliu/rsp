@@ -28,6 +28,8 @@ pub const CHAIN_ID_ETH_MAINNET: u64 = 0x1;
 /// Chain ID for OP Mainnnet.
 pub const CHAIN_ID_OP_MAINNET: u64 = 0xa;
 
+pub const CHAIN_ID_BOBA_MAINNET: u64 = 0x120;
+
 /// Chain ID for Linea Mainnet.
 pub const CHAIN_ID_LINEA_MAINNET: u64 = 0xe708;
 
